@@ -13,6 +13,6 @@ bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an id
 resume: `This is my desk and on it is my resume. <a href="https://github.com/Bhaskar-04/Resume/blob/main/Bhaskar's%20Resume%20(1).pdf" target="_blank">Check it out?</a>
 Contact me at ibhaskar.email@gmail.com if you have any interesting job opportunities!`,
 projects: `I hope to get hand-on practice over actual technical products and projects and am looking forward to meet people who have great excellence in this field and hope to learn and grow as much as i can...`,
-library: `I bought this book shelf to develop my interest in reading books and so far only added and read one called something like Eat that Frog but in future I would like to read about my developing interests like typescript and Nextjs`,
+library: `I bought this book shelf to develop my interest in reading books and so far only added and read one called something like Eat that Frog but in future I would like to read about my developing interests like typescript and Nextjs.`,
 exit: `If you want to exit Bhaskar's portfolio, just close the tab.`,
 };
