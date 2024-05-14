@@ -3,9 +3,9 @@ export const scaleFactor = 4;
 export const dialogueData = {pc: `This is my PC. I work mostly in Node.js/Express these days.
 I've dedicated my upcoming time to be proficient in backend as it intrigues me the most. I would also like to learn Next.js and Python. Anyway regardless of the language, I just like programming.
 Here is my <a href="https://github.com/Bhaskar-04" target="_blank">Github</a>!`,
-"cs-degree": `This is my Internshala Certification. I hung it on the wall because I'm proud of it. I think it gave me a good foundation.<a href="https://github.com/Bhaskar-04/Certification/blob/main/Internshala%20Bhaskar.pdf" target="_blank">Certificate</a>!`,
+"cs-degree": `This is my Internshala Certification. I hung it on the wall because I'm proud of it. I think it gave me a good foundation.<a href="https://drive.google.com/file/d/1e289vL_AQL78Xcf0IwCeU8hBqnA5GySx/view?usp=sharing" target="_blank">Certificate</a>!`,
 "sofa-table": `That's my sofa. I like to relax here and watch YouTube and listen lowkey any kindoff music. 
-. Go ahead hear to <a href="https://open.spotify.com/playlist/69gdoMhkUS06w8dqUUNohS?si=819a2f2d3bdd4fe4" target="_blank">my most binged playlist!</a>! `,
+. Go ahead hear to <a href="https://open.spotify.com/playlist/69gdoMhkUS06w8dqUUNohS?si=819a2f2d3bdd4fe4" target="_blank">my playlist!</a>! `,
 tv: `That's my TV. I've been watching tech youtubers a lot recently like :
 <a href="https://www.youtube.com/@thesheryianscodingschool" target="_blank">Sheryians Coding School</a>, <a href="https://www.youtube.com/@mehulmpt" target="_blank">Mehul Mohan</a>,
 <a href="https://www.youtube.com/@freecodecamp" target="_blank">FreeCodeCamp.org</a> and <a href="https://www.youtube.com/@6PackProgrammer" target="_blank">6PackProgrammer</a>! (sometimes)`,
